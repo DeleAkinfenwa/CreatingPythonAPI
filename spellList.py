@@ -26,7 +26,7 @@ spell_list = [{
     "desc": "You bless up to three creatures of your choice within range. Whenever a target makes an attack roll or a saving throw before the spell ends, the target can roll a d4 and add the number rolled to the attack roll or saving throw.",
     "range": "30 feet",
     "level": 1,
-    "name": "Enchantment",
+    "school": "Enchantment",
 },
     {
     "name": "Blink",
